@@ -1,2 +1,1 @@
-Machine Learning Cohort at Bangkit Academy 2024 | Undergraduate Informatics Student at Multi Data Palembang University<br>
-[Linkedin](https://www.linkedin.com/in/fathimah-azzahra-ba784b2b3/)
+Skilled in Web Development and Data Engineering with hands-on experience in building web applications, managing IT systems, and supporting academic learning. Proficient in Python, PHP, Laravel, and CodeIgniter, with a strong interest in Machine Learning. Known for being adaptable, detail-oriented, and solution-focused.<br>
